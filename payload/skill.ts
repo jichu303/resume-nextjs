@@ -8,7 +8,7 @@ const programmingLanguages: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'Shell Scripting',
+      title: 'C++',
       level: 3,
     },
     {
@@ -16,16 +16,12 @@ const programmingLanguages: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'Perl',
+      title: 'Java',
       level: 2,
     },
     {
-      title: 'Golang',
+      title: 'HTML/CSS',
       level: 2,
-    },
-    {
-      title: 'Rust',
-      level: 1,
     },
   ],
 };
@@ -34,20 +30,7 @@ const kernelDevelopment: ISkill.Skill = {
   category: 'Kernel Development',
   items: [
     {
-      title: 'Kernel Programming',
-      level: 3,
-    },
-    {
-      title: 'GNU Debugger',
-      level: 3,
-    },
-    {
-      title: 'Memory Management',
-      level: 2,
-    },
-    {
-      title: 'System Call Interface',
-      level: 2,
+      title: '아직',
     },
   ],
 };
